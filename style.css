@@ -86,7 +86,7 @@ form .display input {
 
 @media (max-width: 480px) {
     .calculator {
-        max-width: 90%;
+        max-width: 91%;
         height: auto;
         padding: 15px;
     }
